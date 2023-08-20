@@ -84,3 +84,35 @@ export const nbaTeams = [
           { name: 'Jamal Murrary', position: 'Guard' },
         ],
       },
+      {
+        teamName: 'Dallas Mavericks',
+        city: 'Dallas',
+        players: [
+          { name: 'Luka Donik', position: 'Guard' },
+          { name: 'Kyrie Irving', position: 'Guard' },
+        ],
+      },
+      {
+        teamName: 'Toronto Raptors',
+        city: 'Toronto',
+        players: [
+          { name: 'Pascal Sikam', position: 'Forward' },
+          { name: 'Scottie Barnes', position: 'Forward' },
+        ],
+      },
+      {
+        teamName: 'Los Angles Clippers',
+        city: 'Los Angles',
+        players: [
+          { name: 'Kawhi Lenoard', position: 'Forward' },
+          { name: 'Paul George', position: 'Forward' },
+        ],
+      },
+      {
+        teamName: 'Denver Nuggets',
+        city: 'Denver',
+        players: [
+          { name: 'Nikola Jovic', position: 'Center' },
+          { name: 'Jamal Murrary', position: 'Guard' },
+        ],
+      },
