@@ -7,6 +7,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
+  
 }
 
 .team {
@@ -35,4 +36,8 @@ li {
   background-color: darkcyan;
   color: white;
   padding: 10px;
+}
+
+body{
+  background-color: black;
 }
