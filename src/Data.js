@@ -180,4 +180,28 @@ export const nbaTeams = [
           { name: 'Jaden Ivhy', position: 'Guard' },
         ],
       },
-      
+      {
+        teamName: 'Utah Jazz',
+        city: 'Utah',
+        players: [
+          { name: 'Lauri Markean', position: 'Center' },
+          { name: 'Walker Kesser', position: 'Center' },
+        ],
+      },
+      {
+        teamName: 'Portland Trail Blazers',
+        city: 'Portland',
+        players: [
+          { name: 'Dame Lillard', position: 'Guard' },
+          { name: 'Jermi Grant', position: 'Forward' },
+        ],
+      },
+      {
+        teamName: 'Oklahmoa City Thunder',
+        city: 'Oklahmoa City',
+        players: [
+          { name: 'Shai-Gilderdfous-Alexander', position: 'Guard' },
+          { name: 'Josh Giddy', position: 'Guard' },
+        ],
+      },
+    ];
