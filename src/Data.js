@@ -9,8 +9,8 @@ export const nbaTeams = [
       ],
     },
     {
-      teamName: 'Phonix Suns',
-      city: 'Phonix',
+      teamName: 'Phoenix Suns',
+      city: 'Phoenix',
       players: [
         { name: 'Kevin Durant', position: 'Forward' },
         { name: 'Devin Booker', position: 'Guard' },
@@ -80,7 +80,7 @@ export const nbaTeams = [
         teamName: 'Denver Nuggets',
         city: 'Denver',
         players: [
-          { name: 'Nikola Jovic', position: 'Center' },
+          { name: 'Nikola Jokic', position: 'Center' },
           { name: 'Jamal Murrary', position: 'Guard' },
         ],
       },
@@ -88,7 +88,7 @@ export const nbaTeams = [
         teamName: 'Dallas Mavericks',
         city: 'Dallas',
         players: [
-          { name: 'Luka Donik', position: 'Guard' },
+          { name: 'Luka Doncic', position: 'Guard' },
           { name: 'Kyrie Irving', position: 'Guard' },
         ],
       },
@@ -96,7 +96,7 @@ export const nbaTeams = [
         teamName: 'Toronto Raptors',
         city: 'Toronto',
         players: [
-          { name: 'Pascal Sikam', position: 'Forward' },
+          { name: 'Pascal Siakam', position: 'Forward' },
           { name: 'Scottie Barnes', position: 'Forward' },
         ],
       },
@@ -112,15 +112,15 @@ export const nbaTeams = [
         teamName: 'San Antonio Spurs',
         city: 'San Antonio',
         players: [
-          { name: 'Victor Wembababaya', position: 'Center' },
-          { name: 'Greg Popovic', position: 'Coach' },
+          { name: 'Victor Wembanyama', position: 'Center' },
+          { name: 'Greg Popovich', position: 'Coach' },
         ],
       },
       {
         teamName: 'Milwaukee Bucks',
         city: 'Milwakuee',
         players: [
-          { name: 'Gianis Antokempop', position: 'Forward' },
+          { name: 'Giannis Antetokounmpo', position: 'Forward' },
           { name: 'Jrue Holiday', position: 'Guard' },
         ],
       },
@@ -137,7 +137,7 @@ export const nbaTeams = [
         city: 'Sacramento',
         players: [
           { name: 'Dearon Fox', position: 'Guard' },
-          { name: 'Damontis Sabonis', position: 'Center' },
+          { name: 'Domantas Sabonis', position: 'Center' },
         ],
       },
       {
@@ -161,7 +161,7 @@ export const nbaTeams = [
         city: 'Alanta',
         players: [
           { name: 'Trae Young', position: 'Guard' },
-          { name: 'DEjonte Murrary', position: 'Guard' },
+          { name: 'Dejounte Murrary', position: 'Guard' },
         ],
       },
       {
@@ -169,7 +169,7 @@ export const nbaTeams = [
         city: 'New Orleans',
         players: [
           { name: 'Brandon Ingram', position: 'Forward' },
-          { name: 'Cj Mcollunm', position: 'Guard' },
+          { name: 'Cj McCollum', position: 'Guard' },
         ],
       },
       {
@@ -177,14 +177,14 @@ export const nbaTeams = [
         city: 'Detroit',
         players: [
           { name: 'Cade Cunningham', position: 'Guard' },
-          { name: 'Jaden Ivhy', position: 'Guard' },
+          { name: 'Jaden Ivey', position: 'Guard' },
         ],
       },
       {
         teamName: 'Utah Jazz',
         city: 'Utah',
         players: [
-          { name: 'Lauri Markean', position: 'Center' },
+          { name: 'Lauri Markkanen', position: 'Center' },
           { name: 'Walker Kesser', position: 'Center' },
         ],
       },
@@ -193,14 +193,14 @@ export const nbaTeams = [
         city: 'Portland',
         players: [
           { name: 'Dame Lillard', position: 'Guard' },
-          { name: 'Jermi Grant', position: 'Forward' },
+          { name: 'Jerrami Grant', position: 'Forward' },
         ],
       },
       {
         teamName: 'Oklahmoa City Thunder',
         city: 'Oklahmoa City',
         players: [
-          { name: 'Shai-Gilderdfous-Alexander', position: 'Guard' },
+          { name: 'Shai Gilgeous-Alexander', position: 'Guard' },
           { name: 'Josh Giddy', position: 'Guard' },
         ],
       },
