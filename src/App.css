@@ -1,3 +1,38 @@
-body{
-  margin: 0;
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.team-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.team {
+  background-color: darkcyan;
+  border: 1px solid #ccc;
+  color: white;
+  padding: 20px;
+  flex: 1;
+  min-width: 300px;
+  border-radius: 10px;
+  margin: 0 20px;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+  margin: 5px 0;
+}
+
+
+.center{
+  text-align: center;
+  background-color: darkcyan;
+  color: white;
+  padding: 10px;
 }
