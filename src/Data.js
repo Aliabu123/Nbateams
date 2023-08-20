@@ -109,10 +109,75 @@ export const nbaTeams = [
         ],
       },
       {
-        teamName: 'Denver Nuggets',
-        city: 'Denver',
+        teamName: 'San Antonio Spurs',
+        city: 'San Antonio',
         players: [
-          { name: 'Nikola Jovic', position: 'Center' },
-          { name: 'Jamal Murrary', position: 'Guard' },
+          { name: 'Victor Wembababaya', position: 'Center' },
+          { name: 'Greg Popovic', position: 'Coach' },
         ],
       },
+      {
+        teamName: 'Milwaukee Bucks',
+        city: 'Milwakuee',
+        players: [
+          { name: 'Gianis Antokempop', position: 'Forward' },
+          { name: 'Jrue Holiday', position: 'Guard' },
+        ],
+      },
+      {
+        teamName: 'Clevand Cavaliers',
+        city: 'Clevand',
+        players: [
+          { name: 'Donovan Mitchel', position: 'Guard' },
+          { name: 'Darius Garland', position: 'Guard' },
+        ],
+      },
+      {
+        teamName: 'Sacramento Kings',
+        city: 'Sacramento',
+        players: [
+          { name: 'Dearon Fox', position: 'Guard' },
+          { name: 'Damontis Sabonis', position: 'Center' },
+        ],
+      },
+      {
+        teamName: 'Minnesota Timberwolves',
+        city: 'Minnesota',
+        players: [
+          { name: 'Karl Anthony-Towns', position: 'Center' },
+          { name: 'Anthony Edwards', position: 'Guard' },
+        ],
+      },
+      {
+        teamName: 'Memphis Grizzlies',
+        city: 'Memphis',
+        players: [
+          { name: 'Ja Morant', position: 'Guard' },
+          { name: 'Jaren Jackson Jr', position: 'Center' },
+        ],
+      },
+      {
+        teamName: 'Alanta Hawks',
+        city: 'Alanta',
+        players: [
+          { name: 'Trae Young', position: 'Guard' },
+          { name: 'DEjonte Murrary', position: 'Guard' },
+        ],
+      },
+      {
+        teamName: 'New Orleans Pelicans',
+        city: 'New Orleans',
+        players: [
+          { name: 'Brandon Ingram', position: 'Forward' },
+          { name: 'Cj Mcollunm', position: 'Guard' },
+        ],
+      },
+      {
+        teamName: 'Detroit Pistions',
+        city: 'Detroit',
+        players: [
+          { name: 'Cade Cunningham', position: 'Guard' },
+          { name: 'Jaden Ivhy', position: 'Guard' },
+        ],
+      },
+      
